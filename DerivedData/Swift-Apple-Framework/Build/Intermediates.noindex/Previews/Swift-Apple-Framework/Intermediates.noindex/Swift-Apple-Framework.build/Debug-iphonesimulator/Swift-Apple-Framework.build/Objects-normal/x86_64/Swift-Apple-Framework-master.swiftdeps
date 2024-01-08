@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "971395785827e792cb0b0310febceadf5fae2b22c90459c6af0941b54d6ed76f"
+build_start_time: [1704700649, 631357000]
+build_end_time: [1704700651, 446392000]
+inputs:
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Modal/Framework.swift": [1704434014, 350205370]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Screens/FrameworkGridView/FrameworkGridView.swift": [1704700585, 441500757]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Screens/FrameworkGridView/FrameworkGridViewModal.swift": [1704700648, 445910175]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Screens/SingleView/SingleView.swift": [1704698206, 189412514]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Swift_Apple_FrameworkApp.swift": [1704441731, 255837735]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/UIKit Components/SafariView.swift": [1704696351, 336226851]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Views/Buttons/CloseIconView.swift": [1704698012, 407719909]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Views/View/FrameworkTitleView.swift": [1704697512, 705864028]

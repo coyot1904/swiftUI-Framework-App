@@ -1,0 +1,12 @@
+{
+  "source": "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/SingleFrameWork.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      }
+    ]
+  },
+  "version": 1
+}

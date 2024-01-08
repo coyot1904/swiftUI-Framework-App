@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "971395785827e792cb0b0310febceadf5fae2b22c90459c6af0941b54d6ed76f"
+build_start_time: [1704433478, 126298000]
+build_end_time: [1704433478, 205378000]
+inputs:
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/ContentView.swift": !private [1704433466, 348727677]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Swift_Apple_FrameworkApp.swift": !private [1704433466, 340408348]

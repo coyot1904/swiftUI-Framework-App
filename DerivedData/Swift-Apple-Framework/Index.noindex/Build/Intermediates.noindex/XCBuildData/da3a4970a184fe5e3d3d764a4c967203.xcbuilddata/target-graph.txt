@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Swift-Apple-Framework in Swift-Apple-Framework, no dependencies
+Swift-Apple-Framework in Swift-Apple-Framework, no dependencies
+Swift-Apple-FrameworkTests in Swift-Apple-Framework, depends on:
+Swift-Apple-Framework in Swift-Apple-Framework (explicit)
+Swift-Apple-FrameworkTests in Swift-Apple-Framework, depends on:
+Swift-Apple-Framework in Swift-Apple-Framework (explicit)
+Swift-Apple-FrameworkTests in Swift-Apple-Framework, no dependencies
+Swift-Apple-FrameworkUITests in Swift-Apple-Framework, depends on:
+Swift-Apple-Framework in Swift-Apple-Framework (explicit)
+Swift-Apple-FrameworkUITests in Swift-Apple-Framework, depends on:
+Swift-Apple-Framework in Swift-Apple-Framework (explicit)
+Swift-Apple-FrameworkUITests in Swift-Apple-Framework, no dependencies

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "09ef7d5551a53899b06f9a4a3dc58124620ee57d0cbbdb37e75d805705c0e5ca"
+build_start_time: [1704435841, 754544000]
+build_end_time: [1704435841, 854633000]
+inputs:
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Framework.swift": !private [1704434014, 350205370]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/FrameworkGridView.swift": !private [1704435838, 669329805]
+  "/Users/neda/Desktop/Swift-Apple-Framework/Swift-Apple-Framework/Swift_Apple_FrameworkApp.swift": !private [1704434478, 725585688]
